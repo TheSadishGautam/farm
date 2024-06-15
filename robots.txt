@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jagatpurgoat.com.np/sitemap.xml
